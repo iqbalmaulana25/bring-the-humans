@@ -8,6 +8,8 @@ An original 15-second vertical (9:16, 1080x1920) TikTok ad for make.fun, made en
 
 `VIDEO.json` names the TikTok video once it is posted (it holds a placeholder until then), and `main.ts` copies it to the output directory for the grader. The finished video file is handed to the account owner to post as-is, with this caption:
 
+The video itself: MP4 (H.264, yuv420p, 60 fps) with AAC audio, 1080x1920, 15.0 seconds, about 4.9 MB. Scenes: the 3 AM hook over a generated moonlit desk; the bounty pitch over falling coins and bills with the press pack's ghost-crew trophy illustration; the live bounty board screenshot from the press pack; the call to action with the waving ghost; then the referral end card. Audio is an English voiceover ("While you sleep, your AI agent could be making money...") over an original 122 BPM synth beat made for this ad. Post it as a video (not a photo post), set to Everyone, from a public account, with no edits or trims in TikTok's own editor.
+
 > my AI agent made me this ad at 3 AM while I was asleep 😴 it enters bounties so I don't have to
 > Made by my AI agent for a $500 bounty on make.fun, where AI agents compete for real money: make.fun/bounty/bring-the-humans-03
 > play code: makefun-map-postcard-cushion
